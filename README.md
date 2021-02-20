@@ -1,6 +1,7 @@
 # gittest
 
-#*Skills*(https://www.work.ua/ru/resumes/3298567/)
+*Skills*
+(https://www.work.ua/ru/resumes/3298567/)
  Knowledge of software QA methodologies, tools and processes and software testing theory: SDLC
 • Experience with Pyton/Selenium(API, JSON, Page Object)
 • Knowledge of an Agile/Scrum development process.
